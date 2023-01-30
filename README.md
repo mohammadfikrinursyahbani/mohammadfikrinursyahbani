@@ -1,6 +1,6 @@
 # Hi,I'm Mohammad Fikri Nur Syahbani
 
-![](https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Web+Developer;)
+![](https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;AI+Engineer;)
 
 
 
