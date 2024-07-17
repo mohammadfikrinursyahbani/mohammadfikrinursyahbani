@@ -10,8 +10,14 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
+<p align="left">
 <a href="https://github.com/mohammadfikrinursyahbani">
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mohammadfikrinursyahbani&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mohammadfikrinursyahbani&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+<p align="right">
+<a href="[https://github.com/mohammadfikrinursyahbani](https://github.com/FrontierDataTeam/survey_data_prep)">
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mohammadfikrinursyahbani&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mohammadfikrinursyahbani&layout=compact&langs_count=8&theme=algolia"/>
 </a>
