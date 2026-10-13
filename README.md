@@ -8,10 +8,6 @@
   <img src="https://komarev.com/ghpvc/?username=mohammadfikrinursyahbani&color=06b6d4&style=flat&label=Profile+Views"/>
 </p>
 
-### 👨‍💻 &nbsp;About Me
-
-Data Engineer yang membangun dan merawat pipeline data agar data mengalir andal, bersih, dan siap dianalisis.
-
 ### 🛠 &nbsp;Tech Stack
 
 **Languages**<br>
