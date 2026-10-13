@@ -23,4 +23,3 @@
 <a href="https://www.linkedin.com/in/mohammadfikrinursyahbani/"><img src="https://img.shields.io/badge/-mohammad%20fikri%20nur%20syahbani-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://www.instagram.com/fikrinursyahbani/"><img src="https://img.shields.io/badge/-@fikrinursyahbani-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
-
